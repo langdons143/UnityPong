@@ -9,6 +9,8 @@ TagManager:
   - Wall Vertical
   - Ball
   - Paddle2
+  - LeftScoreZone
+  - RightScoreZone
   layers:
   - Default
   - TransparentFX
